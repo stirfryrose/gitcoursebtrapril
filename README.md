@@ -16,7 +16,7 @@ This is a test repo for a git course.
 * list item 2 unordered.
 
 #This is an image below:
-![This is alt text](http://chittagongit.com/icon/icon-github-28.html)
+![This is alt text](http://chittagongit.com//images/icon-github/icon-github-28.jpg)
 
 [This is a hyperlink](https://wufc.co.uk)
 
@@ -26,4 +26,6 @@ const foo = function()
     alert("boo");
 }
 '''
+
+atatest
 
